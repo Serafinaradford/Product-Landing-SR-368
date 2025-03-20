@@ -12,7 +12,7 @@
     text-align: left;
   }
   
-  .roboto-slab-<uniquifier> {
+  .roboto-slab {
     font-family: "Roboto Slab", serif;
     font-optical-sizing: auto;
     font-weight: normal;
@@ -144,7 +144,7 @@
     font-size: 3em;
   }
   
-  }
+  
   #desc{
     display: flex;
     flex-direction: column;
